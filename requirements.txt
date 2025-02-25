@@ -1,0 +1,10 @@
+laravel/framework
+adminlte
+php
+composer
+ext-pdo
+ext-mbstring
+ext-ctype
+ext-openssl
+ext-tokenizer
+ext-xml
